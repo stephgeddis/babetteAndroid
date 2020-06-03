@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "type": "Bitmap",
+      "name": "CreateAccount",
+      "file": "img/CreateAccountButton.png"
+    },
+    {
+     "type": "Bitmap",
+      "name": "BackButtonCA",
+      "file": "img/BackButton.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "CreateAccountINV",
+      "file": "img/CreateAccountInverted.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BackButtonCAINV",
+      "file": "img/BackButtonInverted.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Textbox",
+      "file": "img/TextBox.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "AvatarText",
+      "file": "img/AvatarText.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "UsernameText",
+      "file": "img/UsernameText.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "PasswordText",
+      "file": "img/PasswordText.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "ConfirmText",
+      "file": "img/ConfirmText.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "AvatarSelected",
+      "file": "img/AvatarSelected.png"
+    }
+  ]
+}

@@ -1,0 +1,716 @@
+{
+  "assets": [
+    //Stephen Irons 40204625
+    //assets for the circles on the game screen
+    {
+      "type": "Bitmap",
+      "name": "BlueCircle",
+      "file": "img/BlueCircle.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "GreenCircle",
+      "file": "img/GreenCircle.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "RedCircle",
+      "file": "img/RedCircle.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "YellowCircle",
+      "file": "img/YellowCircle.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "Avatar1",
+      "file": "img/av1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Avatar2",
+      "file": "img/av2.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Avatar3",
+      "file": "img/av3.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Avatar4",
+      "file": "img/av4.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Avatar5",
+      "file": "img/av5.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BlankAvatar",
+      "file": "img/blankAV.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Background1",
+      "file": "img/bground.jpg"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Background2",
+      "file": "img/bground2.jpg"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "LoadingLogo",
+      "file": "img/LoadingLogo.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "LoadingAce",
+      "file": "img/LoadingAce.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "LoadingCard",
+      "file": "img/LoadingCard.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BackButton",
+      "file": "img/GameSetUpBack.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "GBackground",
+      "file": "img/GenericBackground.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "LeftBtn",
+      "file": "img/Left.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "RightBtn",
+      "file": "img/Right.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "StartGame",
+      "file": "img/StartGame.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "PauseButton",
+      "file": "img/Pause.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "GameMap",
+      "file": "img/GameMap.png"
+    },
+    /*Added World Map assets for Babette Game Screen
+    // Stephen Geddis 40210068
+           */
+    {
+      "type": "Bitmap",
+      "name": "WorldMap",
+      "file": "img/WorldMapColouredMapOnly.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "WorldMapText",
+      "file": "img/WorldMapColouredTextOnly.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "WorldMapBackground",
+      "file": "img/WorldMapColouredBackgroundOnly.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "Key",
+      "file": "img/Key.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "Keyboard",
+      "file": "img/Keyboard.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "Key11",
+      "file": "img/Key11.png"
+    },
+
+    /*Adding Spinning Wheel/Dice assets
+    //Stephen Geddis 40210068
+       */
+    {
+      "type": "Bitmap",
+      "name": "SpinningWheel1",
+      "file": "img/SpinningWheel1.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "SpinningWheel2",
+      "file": "img/SpinningWheel2.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SpinningWheel3",
+      "file": "img/SpinningWheel3.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SpinningWheel4",
+      "file": "img/SpinningWheel4.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "SpinningWheel5",
+      "file": "img/SpinningWheel5.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SpinningWheel6",
+      "file": "img/SpinningWheel6.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SpinningWheelBeforeActive",
+      "file": "img/SpinningWheelBeforeActive.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "InitalInvisible",
+      "file": "img/InitalInvisible.png"
+    },
+
+    {
+      "type":  "Sound",
+      "name":  "SpinningWheelSelected",
+      "file":  "sound/SpinWheelSelectedSFX.mp3"
+    },
+    {
+      "type":  "Sound",
+      "name":  "SpinningWheelSpinning",
+      "file":  "sound/SpinWheelSpinningSFX.mp3"
+
+    }
+  ,
+    {
+      "type":  "Sound",
+      "name":  "SlotMachineWin",
+      "file":  "sound/SlotMachineWinSFX.mp3"
+
+    },
+    {
+      "type":  "Sound",
+      "name":  "SlotMachineLose",
+      "file":  "sound/SlotMachineLoseSFX.mp3"
+
+    },
+    {
+      "type": "Bitmap",
+      "name": "btnBonus",
+      "file": "img/btnBonus.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "btnBonusInvert",
+      "file": "img/btnBonusInvert.png"
+    },
+
+    //Christopher Jennings 40200418
+    //Navigation Buttons
+    {
+      "type": "Bitmap",
+      "name": "BabetteLogo",
+      "file": "img/BabetteLogo.png"
+    }
+  ,
+
+    {
+      "type": "Bitmap",
+      "name": "PLAYcurved",
+      "file": "img/PLAYcurved.png"
+    }
+  ,
+
+    {
+      "type": "Bitmap",
+      "name": "Settings",
+      "file": "img/Settings.png"
+    }
+  ,
+
+    {
+      "type": "Bitmap",
+      "name": "SignOut",
+      "file": "img/SignOut.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "BabetteBgScreen",
+      "file": "img/BabetteBgScreen.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "babetteLogoV2",
+      "file": "img/babetteLogoV2.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "X",
+      "file": "img/X.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "PLAY",
+      "file": "img/PLAY.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "BackButtonBabette",
+      "file": "img/BackButtonBabette.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "StartButton",
+      "file": "img/StartButton.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "Attack",
+      "file": "img/Attack.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "Draft",
+      "file": "img/Draft.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "Fortify",
+      "file": "img/Fortify.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "FramedCircle",
+      "file": "img/FramedCircle.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "Next",
+      "file": "img/Next.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "CreateAccount",
+      "file": "img/CreateAccount.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "GreyCircle",
+      "file": "img/GreyCircle.png"
+    }, {
+      "type": "Bitmap",
+      "name": "GreyCircle1",
+      "file": "img/GreyCircle1.png"
+    }
+
+  ,
+    //Christopher Jennings 40200418
+    //Inverted Buttons
+
+    {
+      "type": "Bitmap",
+      "name": "PLAYinvert",
+      "file": "img/PLAYinvert.png"
+    }
+
+  ,
+
+    {
+      "type": "Bitmap",
+      "name": "PLAYcurvedinvert",
+      "file": "img/PLAYcurvedinvert.png"
+    }
+  ,
+
+    {
+      "type": "Bitmap",
+      "name": "SignOutinvert",
+      "file": "img/SignOutinvert.png"
+    }
+  ,
+
+    {
+      "type": "Bitmap",
+      "name": "Settingsinvert",
+      "file": "img/Settingsinvert.png"
+    }
+  ,
+
+    {
+      "type": "Bitmap",
+      "name": "Xinvert",
+      "file": "img/Xinvert.png"
+    }
+  ,
+
+    {
+      "type": "Bitmap",
+      "name": "StartButtoninvert",
+      "file": "img/StartButtoninvert.png"
+    }
+    ,
+
+
+    //Buttons used in CreateAccountScreen
+    //Jake Smyth 40204021
+    {
+      "type": "Bitmap",
+      "name": "editbutton",
+      "file": "img/editbutton.png"
+    }
+  ,
+
+    {
+      "type": "Bitmap",
+      "name": "clearbutton",
+      "file": "img/clearbutton.png"
+    }
+  ,
+
+    {
+      "type": "Bitmap",
+      "name": "editinvert",
+      "file": "img/editbuttoninvert.png"
+    }
+  ,
+
+    {
+      "type": "Bitmap",
+      "name": "clearinvert",
+      "file": "img/clearbuttoninvert.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "DraftInvert",
+      "file": "img/DraftInvert.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "FortifyInvert",
+      "file": "img/FortifyInvert.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "AttackInvert",
+      "file": "img/AttackInvert.png"
+    }
+    ,{
+      "type": "Bitmap",
+      "name": "BlueCircle1",
+      "file": "img/BlueCircle1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "GreenCircle1",
+      "file": "img/GreenCircle1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "RedCircle1",
+      "file": "img/RedCircle1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "YellowCircle1",
+      "file": "img/YellowCircle1.png"
+    }
+
+  ,
+    {
+      "type": "Bitmap",
+      "name": "CyberSecurityTeam",
+      "file": "img/CyberSecurityTeam.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "CyberSecurityBusiness",
+      "file": "img/CyberSecurityTeam.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "CyberSecurityOrganisation",
+      "file": "img/CyberSecurityOrganisation.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "DevelopmentTeam",
+      "file": "img/DevelopmentTeam.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "DevelopmentBusiness",
+      "file": "img/DevelopmentBusiness.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "DevelopmentOrganisation",
+      "file": "img/DevelopmentOrganisation.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "HardwareTeam",
+      "file": "img/HardwareTeam.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "HardwareBusiness",
+      "file": "img/HardwareBusiness.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "HardwareOrganisation",
+      "file": "img/HardwareOrganisation.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "NetworkTeam",
+      "file": "img/NetworkingTeam.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "NetworkBusiness",
+      "file": "img/NetworkingBusiness.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "NetworkOrganisation",
+      "file": "img/NetworkingOrganisation.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "ProgrammingTeam",
+      "file": "img/ProgrammingTeam.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "ProgrammingBusiness",
+      "file": "img/ProgrammingBusiness.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "ProgrammingOrganisation",
+      "file": "img/ProgrammingOrganisation.png"
+    },
+    {
+    "type": "Bitmap",
+    "name": "SlotMachine",
+    "file": "img/SlotMachineTemplate.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SlotMachineStart",
+      "file": "img/SlotMachineStart.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SlotMachineFail",
+      "file": "img/SlotMachineFail.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SlotMachineQueens",
+      "file": "img/SlotMachineQueensLogo.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "GameObjectiveBar",
+      "file": "img/GameObjectiveBar.png"
+    },
+
+    //babetteCardButtons
+    {
+      "type": "Bitmap",
+      "name": "BabetteCardButton",
+      "file": "img/BabetteCardButton.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "BabetteCardInvert",
+      "file": "img/BabetteCardInvert.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "WildCard",
+      "file": "img/WildCard.png"
+    },
+
+    //Christopher Jennings 40200418
+    //Adding in Babette card images to JSON
+
+    //CYBERSECURITY CARDS
+    {
+      "type": "Bitmap",
+      "name": "CyberSecurityBusiness",
+      "file": "img/CyberSecurityBusiness.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "CyberSecurityOrganisation",
+      "file": "img/CyberSecurityOrganisation.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "CyberSecurityTeam",
+      "file": "img/CyberSecurityTeam.png"
+    },
+
+    //DEVELOPMENT CARDS
+    {
+      "type": "Bitmap",
+      "name": "DevelopmentBusiness",
+      "file": "img/DevelopmentBusiness.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "DevelopmentOrganisation",
+      "file": "img/DevelopmentOrganisation.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "DevelopmentTeam",
+      "file": "img/DevelopmentTeam.png"
+    },
+
+    //HARDWARE CARDS
+    {
+      "type": "Bitmap",
+      "name": "HardwareBusiness",
+      "file": "img/HardwareBusiness.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "HardwareOrganisation",
+      "file": "img/HardwareOrganisation.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "HardwareTeam",
+      "file": "img/HardwareTeam.png"
+    },
+
+    //PROGRAMMING LANGUAGES CARDS
+    {
+      "type": "Bitmap",
+      "name": "ProgrammingBusiness",
+      "file": "img/ProgrammingBusiness.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "ProgrammingOrganisation",
+      "file": "img/ProgrammingOrganisation.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "ProgrammingTeam",
+      "file": "img/ProgrammingTeam.png"
+    },
+
+    //SOCIAL MEDIA CARDS
+    {
+      "type": "Bitmap",
+      "name": "NetworkingBusiness",
+      "file": "img/NetworkingBusiness.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "NetworkingOrganisation",
+      "file": "img/NetworkingOrganisation.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "NetworkingTeam",
+      "file": "img/NetworkingTeam.png"
+    },
+
+    //ECOMMERCE CARDS
+    {
+      "type": "Bitmap",
+      "name": "ECommerceBusiness",
+      "file": "img/ECommerceBussiness.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "ECommerceOrganisation",
+      "file": "img/ECommerceOrganisation.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "ECommerceTeam",
+      "file": "img/ECommerceTeam.png"
+    },
+
+    //WILDCARD
+    {
+      "type": "Bitmap",
+      "name": "WildCard",
+      "file": "img/WildCard.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "TradeButton",
+      "file": "img/TradeButton.png"
+    }
+
+  ]
+}

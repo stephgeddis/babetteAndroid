@@ -1,0 +1,14 @@
+{
+  "assets": [
+    {
+      "type": "Bitmap",
+      "name": "Play",
+      "file": "img/MainMenuPlayButton.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Settings",
+      "file": "img/MainMenuSettings.png"
+    }
+  ]
+}

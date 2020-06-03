@@ -1,0 +1,90 @@
+{
+  "assets": [
+    {
+      "type": "Bitmap",
+      "name": "SpaceBackground",
+      "file": "img/SpaceBackground.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Asteroid1",
+      "file": "img/Asteroid1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Asteroid2",
+      "file": "img/Asteroid2.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Spaceship1",
+      "file": "img/Spaceship1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Spaceship2",
+      "file": "img/Spaceship2.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Spaceship3",
+      "file": "img/Spaceship3.png"
+    },
+    //Added additional spaceship image to asset list
+    //Stephen Geddis 40210068
+    {
+      "type": "Bitmap",
+      "name": "Spaceship4",
+      "file": "img/Spaceship4.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Turret",
+      "file": "img/Turret.png"
+    },
+    //Added additional turrent image to asset list
+    //Stephen Geddis 40210068
+    {
+      "type": "Bitmap",
+      "name": "Turret2",
+      "file": "img/Turret2.png"
+    },
+    {
+      /*Changed the file and name variables to match the new background music file
+       *so that the method "playBackgroundMusic()" will play the new music.
+       *Jake Smyth 40204021
+       */
+      "type":  "Music",
+      "name":  "BackgroundMusic",
+      "file":  "sound/NewBackgroundMusic.mp3"
+    },
+
+    {
+      /*Adding in the asteroid assest image into the assests folder
+       *Christopher Jennings 40200418
+       */
+      "type":  "Bitmap",
+      "name":  "Asteroid3",
+      "file":  "img/Asteroid3.png"
+    },
+
+    {
+      /*Adding in the asteroid assest image into the assests folder
+       *Christopher Jennings 40200418
+       */
+      "type":  "Bitmap",
+      "name":  "Asteroid4",
+      "file":  "img/Asteroid4.png"
+    },
+
+    {
+      /*Adding in flame image into the assests folder for improved thruster effect
+       *Christopher Jennings 40200418
+       */
+      "type":  "Bitmap",
+      "name":  "Flame",
+      "file":  "img/particle/Flame.png"
+    }
+
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "assets": [
+    {
+      "type": "Bitmap",
+      "name": "Platform",
+      "file": "img/Platform1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Ground",
+      "file": "img/Ground.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "RightArrow",
+      "file": "img/RightArrow.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "RightArrowSelected",
+      "file": "img/RightArrowSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "LeftArrow",
+      "file": "img/LeftArrow.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "LeftArrowSelected",
+      "file": "img/LeftArrowSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "UpArrow",
+      "file": "img/UpArrow.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "UpArrowSelected",
+      "file": "img/UpArrowSelected.png"
+    },
+    {
+      // Adding new background music asset for the platform demo
+      // 40212255 Adam Higgins
+      "type":  "Music",
+      "name":  "PlatformMusic",
+      "file":  "sound/PlatformMusic.mp3"
+    },
+
+    {
+      //Added a rectangle platform
+      // 40174176 James Sims
+      "type": "Bitmap",
+      "name": "RectPlatform",
+      "file": "img/rectPlatform.png"
+    },
+    {
+      // Adding new jump sound asset for the platform demo
+      // 40204021 Jake Smyth
+      "type":  "Sound",
+      "name":  "JumpSound",
+      "file":  "sound/jump.mp3"
+    }
+  ]
+}

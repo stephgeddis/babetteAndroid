@@ -1,0 +1,128 @@
+{
+  "BabetteAssets": [
+    //Christopher Jennings 40200418
+    //Adding in Babette card images to JSON
+
+    //CYBERSECURITY CARDS
+    {
+      "type": "Bitmap",
+      "name": "CyberSecurityBusiness",
+      "file": "img/CyberSecurityBusiness.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "CyberSecurityOrganisation",
+      "file": "img/CyberSecurityOrganisation.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "CyberSecurityTeam",
+      "file": "img/CyberSecurityTeam.png"
+    },
+
+    //DEVELOPMENT CARDS
+    {
+      "type": "Bitmap",
+      "name": "DevelopmentBusiness",
+      "file": "img/DevelopmentBusiness.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "DevelopmentOrganisation",
+      "file": "img/DevelopmentOrganisation.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "DevelopmentTeam",
+      "file": "img/DevelopmentTeam.png"
+    },
+
+    //HARDWARE CARDS
+    {
+      "type": "Bitmap",
+      "name": "HardwareBusiness",
+      "file": "img/HardwareBusiness.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "HardwareOrganisation",
+      "file": "img/HardwareOrganisation.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "HardwareTeam",
+      "file": "img/HardwareTeam.png"
+    },
+
+    //PROGRAMMING LANGUAGES CARDS
+    {
+      "type": "Bitmap",
+      "name": "ProgrammingBusiness",
+      "file": "img/ProgrammingBusiness.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "ProgrammingOrganisation",
+      "file": "img/ProgrammingOrganisation.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "ProgrammingTeam",
+      "file": "img/ProgrammingTeam.png"
+    },
+
+    //SOCIAL MEDIA CARDS
+    {
+      "type": "Bitmap",
+      "name": "NetworkingBusiness",
+      "file": "img/NetworkingBusiness.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "NetworkingOrganisation",
+      "file": "img/NetworkingOrganisation.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "NetworkingTeam",
+      "file": "img/NetworkingTeam.png"
+    },
+
+    //ECOMMERCE CARDS
+    {
+      "type": "Bitmap",
+      "name": "ECommerceBusiness",
+      "file": "img/ECommerceBussiness.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "ECommerceOrganisation",
+      "file": "img/ECommerceOrganisation.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "ECommerceTeam",
+      "file": "img/ECommerceTeam.png"
+    },
+
+    //WILDCARD
+    {
+      "type": "Bitmap",
+      "name": "WildCard",
+      "file": "img/WildCard.png"
+    }
+
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "assets": [
+    {
+      "type": "Bitmap",
+      "name": "SlotMachine",
+      "file": "img/SlotMachineTemplate.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BtnPlaySlot",
+      "file": "img/btnPlaySlot.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SlotMachineStart",
+      "file": "img/SlotMachineStart.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SlotMachineFail",
+      "file": "img/SlotMachineFail.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SlotMachineQueens",
+      "file": "img/SlotMachineQueensLogo.png"
+    },
+    {
+      "type": "Sound",
+      "name": "SlotMachineLose",
+      "file": "sound/SlotMachineLoseSFX.mp3"
+    },
+    {
+      "type": "Sound",
+      "name": "SlotMachineWin",
+      "file": "sound/SlotMachineWinSFX.mp3"
+    }
+  ]
+}
