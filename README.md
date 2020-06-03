@@ -1,6 +1,8 @@
 # babetteAndroid
 Risk styled game created for Android Application
 
+An Android Studio based application, where my team and I created a game based upon the board game risk for my Second Year Project at University.
+
 Babette Rules
 
 The Game Map
